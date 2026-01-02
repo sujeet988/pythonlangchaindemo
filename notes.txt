@@ -1,0 +1,31 @@
+##Add .env file
+## requirements.txt
+## python -m venv venvlang -- for create python venv 
+## venvlang\Scripts\activate -- Activate venv 
+## pip freeze > requirements.txt
+## pip install requirements.txt
+## ctr+shift+r --> for refresh 
+
+## notes 2
+🔹 1. If you’re using VS Code
+✅ Restart Python kernel (most common)
+
+Open the Python file
+
+Press Ctrl + Shift + P
+
+Type Python: Restart Interpreter
+
+Select it → Done
+
+✅ OR Reload VS Code window
+
+Press Ctrl + Shift + P
+
+Type Reload Window
+
+Enter
+
+🔹 After this, re-run your script.
+
+## 
