@@ -1,10 +1,16 @@
 ##Add .env file
 ## requirements.txt
 ## python -m venv venvlang -- for create python venv 
-## venvlang\Scripts\activate -- Activate venv 
+## venvtest\Scripts\activate -- Activate venv 
 ## pip freeze > requirements.txt
 ## pip install requirements.txt
 ## ctr+shift+r --> for refresh 
+
+## deactivate 
+deactivate
+
+##
+pip install -r requirements.txt or python -m pip install -r requirements.txt
 
 ## notes 2
 🔹 1. If you’re using VS Code
